@@ -25,7 +25,7 @@ var str = "Welcome to Ashley's Insta Filter processor!"
 
 /* Create five image filters under fiveFilter Structure
  - Take myRGBA image sample and average red, gren blue colors as an input
- - Each image filter fuction takes arbitrary number as an input
+ - Each image filter function takes arbitrary number as an input
  */
 
 /* Call fiveFilter, put user input as myRGBA image sample, average rgba colors
